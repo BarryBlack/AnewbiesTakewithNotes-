@@ -3,7 +3,7 @@ This is for newbies by a newbie (myself) Summary on jsjabber podcast
 
 JSJ 352 Sum up with me baz a coding newbie
 
-This episode I really good, learnt more on CSS and that it has only so much power until you 
+This episode I found really good, learnt more on CSS and that it has only so much power until you 
 need to use js or something other. Power I am meaning as in doing calculations and other bits & bobs.
 
 
